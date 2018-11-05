@@ -1,0 +1,117 @@
+{
+  "home": {
+    "title": "YOUR-APP-NAME",
+    "subtitle": "SUBTITLE-IF-DESIRED",
+    "description": "YOUR-APP-NAME ist eine Frage-Antwort-Plattform, auf der du deine Fragen zu Themen rund um Pubertät, Beziehungen, Sex und Identität stellen kannst. Die Antworten kommen von jungen Leuten, die ebenso neu in Deutschland ankamen."
+  },
+  "actionbuttons": {
+    "ask_q": "Stelle eine Frage",
+    "ask_another": "Stelle eine weitere Frage",
+    "see_ans": "Andere Fragen",
+    "meet_vols": "Die Ambassadors",
+    "thank_you": "Danke für deine Frage!",
+    "answer_week": "Wir beantworten deine Frage innerhalb von einer Woche. Bitte gedulde dich! Die Ambassadors geben ihr Bestes."
+  },
+  "answerdetails": {
+    "question": "Frage",
+    "more": "Mehr...",
+    "less": "Weniger",
+    "previous": "Zurück",
+    "next": "Vor"
+  },
+  "error404": {
+    "error404": "404 Fehler",
+    "title": "Du scheinst neugierig zu sein! Aber hier ist wohl nichts.",
+    "body": "Schau doch mal bei YOUR-APP-NAME's {0} vorbei."
+  },
+  "youtubeadvice": {
+    "yt_title": "YouTube",
+    "yt_description": "Falls du Angst hast, dass dir jemand über die Schulter blickt, klicke einfach auf den YouTube Button und such nach deinem Lieblingslied. (Das kann ein bisschen von deinem Datenvolumen aufbrauchen.)",
+    "yt_important": "<strong>Wichtig:</strong> Beim ersten Klicken des YouTube Buttons öffnet sich der Erklärungstext. Sobald du das nächste Mal darauf klickst, wirst du direkt zu YouTube geleitet. Damit YouTube funktioniert, benötigst du Datenvolumen oder WLAN."
+  },
+  "askquestion": {
+    "what_q": "Was ist deine Frage?",
+    "age": "Alter",
+    "optional": "(optional)",
+    "want_notification": "Möchtest du benachrichtigt werden, wenn deine Frage beantwortet wurde?",
+    "mobile_device": "Handy",
+    "disabled_notifications": "Du hast Push-Benachrichtigungen für YOUR-APP-NAME deaktiviert. Klicke {0} für weitere Informationen.",
+    "incompatible": "Dein Browser unterstützt keine Push-Benachrichtigungen. Versuche es mit der E-Mail-Benachrichtigung.",
+    "email": "E-Mail",
+    "submit": "Abschicken"
+  },
+  "answers": {
+    "title": "Antworten",
+    "explanation": "Viele Jugendliche haben ähnliche Fragen wie du. Hier kannst du sehen, welche Fragen von anderen Jugendlichen gestellt und von den Ambassadors beantwortet wurden.",
+    "different_languages": "Manche Fragen sind auf Deutsch und Englisch verfügbar, manche aber nur auf einer Sprache. Weiter unten kannst du die Sprache wechseln, dann aktualisieren sich die Fragen automatisch.",
+    "search": "Suche",
+    "no_results": "Die Suche ergab keine Treffer. Bitte such nach einem anderen Begriff.",
+    "empty_state": "Es gab ein Problem die Antworten darzustellen. Bitte versuche es noch einmal, wenn du eine Internet-Verbindung hast. "
+  },
+  "app": {
+    "privacy": "Datenschutz",
+    "about": "Über YOUR-APP-NAME",
+    "app_name": "YOUR-APP-NAME",
+    "home": "Home",
+    "ask": "Fragen",
+    "answers": "Antworten",
+    "ambassadors": "Ambassadors",
+    "back_to_top": "Zurück Nach Oben"
+  },
+  "about": {
+    "title": "Über YOUR-APP-NAME",
+    "description": "Während der Pubertät hat man viele Fragen zum eigenen Körper, zu Gefühlen oder Beziehungen. {0} ist eine peer-basierte Plattform, auf der alle Jugendlichen aus verschiedenen Ländern und Kulturen ihre Fragen rund um Pubertät, Beziehung, Sex und Identität stellen können. Beantwortet werden diese Fragen von {1} kommen (Ambassadors) und oft ähnliche Erfahrungen gemacht haben, als sie nach Deutschland kamen. Sie sind bereit, von ihren Erfahrungen rund um's Erwachsenwerden zu erzählen! ",
+    "young_people": "jungen Leute, die ebenfalls aus unterschiedlichen Kulturen"
+  },
+  "ambassadors": {
+    "title": "Die Ambassadors",
+    "description": "Die Ambassadors sind ehrenamtliche, junge Leute, die deine Fragen beantworten. Dafür berufen sie sich nicht nur auf Fakten, sondern erzählen auch von sich und ihren eigenen Erfahrungen. Alle haben sich während ihrer Pubertät jemanden gewünscht, dem/der sie alle Fragen hätten stellen können. Diese/r Jemand wollen sie nun für dich sein! Sie wurden vom YOUR-APP-NAME-Team ausgewählt und auf die Arbeit als Ambassadors vorbereitet.",
+    "picture_alt": "Foto von ",
+    "cta": "Auch du möchtest als Ambassador für Sexualaufklärung Fragen beantworten und junge Leute auf ihrem Weg des Erwachsenwerdens begleiten oder YOUR-APP-NAME auf andere Weise unterstützen?\nSende eine E-Mail an {0}. Wir melden uns und erklären dir alles weitere.",
+    "join_us": "Join us!"
+  },
+  "privacy": {
+    "title": "Datenschutz",
+    "subheader": "Die Verantwortung deiner Daten liegt bei dir.",
+    "intro1": "Hier erklären wir dir alles, was du über Datenschutz wissen solltest, um diese Webseite sicher zu nutzen. ",
+    "intro2": "Außerdem kannst du hier nachlesen, welche Eigenschaften diese Webseite hat, um die Nutzung optimal zu gestalten. Du kannst deine persönlichen Einstellungsänderungen vornehmen.",
+    "intro3": "Bei Fragen und Problemen schicke einfach eine E-Mail an: {0}.",
+    "contact_email": "",
+    "local_storage": "Local Storage",
+    "ls_description1": "Die Idee der Webseite ist, dass möglichst wenig deines Datenvolumens beim Browsen benötigt wird. Außerdem kannst du die Webseite offline nutzen. Dafür haben wir <em>Service Worker</em> eingebaut, eine Technologie, die dir genau das erlaubt.",
+    "ls_description2": "Hier kannst du den Local Storage löschen und den Service Worker abmelden. Beim nächsten Besuch auf der Webseite musst du dies erneut tun.",
+    "delete_ls": "Storage löschen",
+    "delete_ls_check": "Bestätigen?",
+    "delete_ls_ok": "Storage gelöscht",
+    "storage_deleted": "Der Storage ist gelöscht und der Service Worker abgemeldet. Wahrscheinlich musst du noch deinen Browser-Verlauf löschen.",
+    "incognito_title": "Privates Surfen",
+    "incognito_intro": "Bei allen Browsern kann man auch <em>privat surfen</em>. Durch privates Surfen wird sichergestellt, dass keine Informationen darüber, welche Webseiten du besuchst, gespeichert werden.",
+    "incognito_instructions": "Privates Surfen fuktioniert in jedem Browser unterschiedlich. Hier sind ein paar Links zu den Einstellungserklärungen:",
+    "edge": "Microsoft Edge",
+    "edge_name": "InPrivate-Browsen",
+    "safari": "Safari",
+    "safari_name": "Privates Surfen",
+    "opera": "Opera",
+    "opera_name": "Privates Fenster",
+    "firefox": "Firefox",
+    "firefox_name": "Privates Fenster",
+    "chrome": "Chrome",
+    "chrome_name": "Inkognito Modus",
+    "incognito_warning": "<strong>Wichtig:</strong> Privates Surfen verhindert nicht, dass dein Internetanbieter oder die Person, die dein WLAN verwaltet sehen kann, welche Webseiten du besuchst. YOUR-APP-NAME speichert davon nichts, hier bist du sicher.",
+    "data_storage": "Datenspeicherung",
+    "ds_intro": "Nur die Daten die du aktiv an unseren Server schickst (deine Fragen) werden gespeichert, ansonsten speichern wir keine deiner Daten.",
+    "ds_body1": "Alle Infos sind auf deinem Handy gespeichert und werden nur an uns übersendet, wenn du auf \"Abschicken\" klickst.",
+    "ds_body2": "Wenn du eine Frage an uns sendest, werden keine extra Daten erhoben. Mit anderen Worten: Wir speichern nur, was du aktiv an uns sendest: Deine Frage(n) und dein Alter (sofern du es angibst). Diese Information wird in unserer Datenbank gespeichert. Nur das YOUR-APP-NAME-Team und die Ambassadors haben darauf Zugriff.",
+    "notifications_title": "Benachrichtigungen",
+    "notifications_intro": "Du hast zwei optionale Möglichkeiten, per Benachrichtigung informiert zu werden, sobald deine Frage von den Ambassadors beantwortet wurde: per Push-Benachrichtigung oder per E-Mail.",
+    "notifications_email": "Falls du eine Benachrichtigung per E-Mail erhalten möchtest, wird deine E-Mail-Adresse zusammen mit deiner Frage gespeichert, bis diese beantwortet ist. Doch keine Angst, die Ambassadors haben keinen Zugriff auf deine E-Mail. Sie wird verschlüsselt und kann nicht entschlüsselt werden, selbst wenn sich jemand Zugang zur Datenbank verschafft. Sobald die Benachrichtigung verschickt ist, wird deine E-Mail-Adresse von unserem Server gelöscht. ",
+    "notifications_push": "Für Push-Benachrichtigungen entwickelt dein Handy ein Token, das an unseren Server gesendet wird. Sobald deine Frage beantwortet wurde, bekommst du eine Benachrichtigung auf deinem Handy. Wir speichern dabei keine deiner Daten ab. Es ist für uns unmöglich, deine Nummer, deinen Standort oder jegliche andere persönlichen Infos zu verfolgen.",
+    "notifications_push_warning": "<strong>Wichtig:</strong> Nicht alle Browser ermöglichen Push-Benachrichtigungen. Safari, Microsoft Edge und Opera entwickeln diese gerade erst. Falls du keine Push Notifications erhalten kannst, ist dies womöglich der Grund.",
+    "notifications_outro": "Um deinen Datenschutz zu gewähren, wirst du jedes Mal gefragt, auf welchem Weg du eine Benachrichtigung erhalten möchtest (sofern du überhaupt eine erhalten willst).",
+    "enable_push_title": "Einstellungen der Benachrichtigungen ändern",
+    "enable_push_intro": "Sofern du die Push-Benachrichtigungen dieser Webseite deaktiviert hast, kannst du diese nur aktiv über deinen Brower wieder reaktivieren. Wir können dich nur einmal fragen, ob du Push-Benachrichtigungen dieser Webseite erlaubst oder nicht.",
+    "enable_push_body": "Das Aktivieren von Push-Benachrichtigungen ist bei jedem Browser unterschiedlich:",
+    "chrome_web_preferences": "Chrome",
+    "firefox_web_preferences": "Firefox"
+  }
+}
